@@ -7,4 +7,3 @@
     [longitude]="current_lng"
 >
 </agm-marker>
-
