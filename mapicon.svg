@@ -1,9 +1,9 @@
-<svg width="46" height="46" viewBox="0 0 44 44" xmlns="http://www.w3.org/2000/svg" stroke="#488aff">
-    <g fill="none" fill-rule="evenodd" stroke-width="12">
+<svg width="25" height="25" viewBox="0 0 44 44" xmlns="http://www.w3.org/2000/svg" stroke="#488aff">
+    <g fill="none" fill-rule="evenodd" stroke-width="25">
        <circle cx="22" cy="22" r="1">
             <animate attributeName="r"
                 begin="0s" dur="0s"
-                values="1; 20"
+                values="1; 25"
                 calcMode="spline"
                 keyTimes="0; 1"
                 keySplines="0.165, 0.84, 0.44, 1"
@@ -20,7 +20,7 @@
         <circle cx="22" cy="22" r="1">
             <animate attributeName="r"
                 begin="0s" dur="1.8s"
-                values="1; 20"
+                values="1; 13"
                 calcMode="spline"
                 keyTimes="0; 1"
                 keySplines="0.165, 0.84, 0.44, 1"
@@ -36,7 +36,7 @@
         <circle cx="22" cy="22" r="1">
             <animate attributeName="r"
                 begin="-0.9s" dur="1.8s"
-                values="1; 20"
+                values="1; 13"
                 calcMode="spline"
                 keyTimes="0; 1"
                 keySplines="0.165, 0.84, 0.44, 1"
