@@ -1,4 +1,4 @@
-# pulsing-map-icon-for-ionic-with-agm-core
+# Usage
 
   <agm-marker
     [iconUrl]="'assets/mapicon.svg'"
