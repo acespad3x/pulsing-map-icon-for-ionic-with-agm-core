@@ -1,5 +1,6 @@
 # Usage
 
+```html
   <agm-marker
     [iconUrl]="'assets/mapicon.svg'"
     [markerDraggable]="false"
@@ -7,3 +8,4 @@
     [longitude]="current_lng"
 >
 </agm-marker>
+```
